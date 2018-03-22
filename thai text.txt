@@ -5,3 +5,4 @@
 5 THAI
 6 xxxxxxx
 7 yyyyyy
+8 Thai 1
