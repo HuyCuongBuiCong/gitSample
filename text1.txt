@@ -6,5 +6,6 @@
 6 (Cuong) xxxx
 7 (from Rebase)
 7 (Master) Change it
+8 (THai) 1
 8 (Master) 1
 9 (Master) 2
